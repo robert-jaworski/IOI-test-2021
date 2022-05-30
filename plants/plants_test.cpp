@@ -20,7 +20,7 @@ int main() {
         r[i] = taller;
     }
 
-    init(N, r);
+    init(K, r);
 
     for (int i = 0, x, y; i < Q; i++) {
         cin >> x >> y;
